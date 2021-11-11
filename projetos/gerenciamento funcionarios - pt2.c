@@ -1,9 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-// Turma: 16
-// Aluno: José Dhonatas Alves Sales
-// Matrícula: 202000024418
 typedef struct{
     int NUM_FUNC;
     int NUM_DIAS;
