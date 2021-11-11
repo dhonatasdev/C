@@ -4,8 +4,7 @@
 #define NUM_FUNC 10
 #define NUM_DIAS 10
 #define QTD_HORAS_DIARIAS 8
-//Aluno: Jose Dhonatas Alves Sales
-// Matricula:202000024418
+
 
 int main(){
     int op, count = 0, posicao = -1, i, temp, veri = -1, matri, aux;
